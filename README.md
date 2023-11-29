@@ -1,1 +1,1 @@
-# producer-consumer-thread
+# java thread kullanarak basit bir producer-consumer örneği 
